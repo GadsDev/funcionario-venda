@@ -1,0 +1,8 @@
+Rodar:
+    nest g module nome_em_plural
+    nest g controller nome_em_plural
+    nest g service nome_em_plural
+
+Criar:
+    nome_em_singular.interface.ts
+    nome_em_singular.schema.ts
