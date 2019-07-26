@@ -4,8 +4,10 @@ Rodar:
     nest g service nome_em_plural
 
 Criar:
-    nome_em_singular.interface.ts
+    nome_em_singular.interface.ts // :? diz que é opcional
     nome_em_singular.schema.ts
 
 Importar:
     Importar o Schema no module
+
+Service:
