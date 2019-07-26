@@ -6,3 +6,6 @@ Rodar:
 Criar:
     nome_em_singular.interface.ts
     nome_em_singular.schema.ts
+
+Importar:
+    Importar o Schema no module
